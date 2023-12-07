@@ -1,8 +1,9 @@
 ### Hi there 👋
-I'm currently studying Computer Science 💻 at the Technical University of Berlin.
 Thank you for visiting my GitHub profile! 🥳
 
-(Currently, I am building my projects right now, that's why there is pretty much nothing here. You'll see! 😉)
+I'm currently studying Computer Science 💻 at the Technical University of Berlin.
+
+(I am building my projects right now, that's why there is pretty much nothing here. You'll see! 😉)
 
 <!--
 **brandesdavid/brandesdavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
